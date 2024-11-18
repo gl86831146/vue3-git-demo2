@@ -1,13 +1,9 @@
 <template>
-    <div>
-        <h2>whr</h2>
-    </div>
+  <div>
+    <h2>123123</h2>
+  </div>
 </template>
 
-<script setup lang="ts">
+<script setup lang="ts"></script>
 
-</script>
-
-<style scoped>
-
-</style>
+<style scoped></style>
